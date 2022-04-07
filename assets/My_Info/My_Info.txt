@@ -1,0 +1,11 @@
+
+
+Name: Mohammed waleed Ayman Frdoose
+
+Phone: 0778053622
+
+Email: waleedfrdoose@gmail.com
+
+Description: This project is a tourist application for a specific tourism company that shows you the best places for tourism
+And trips with clarification of the number of days and the nature of the atmosphere and the activities of the trip, etc., 
+and allows you to choose your favorite trips and provides information about the company to communicate with it.
